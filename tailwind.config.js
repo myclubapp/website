@@ -10,6 +10,8 @@ module.exports = {
       },
       colors: {
         turquoise: '#73fff7',
+        myclublight: '#339BDE',
+        myclubdark: '#795DEB',
       },
       // custom css properties set in src/components/styled/baseStyles.js
       backgroundColor: {

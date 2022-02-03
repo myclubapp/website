@@ -17,7 +17,7 @@ const StyledHero = styled.article`
         ${tw`ml-4`};
       }
       .gatsby {
-        ${tw`text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-yellow-500`};
+        ${tw`text-transparent bg-clip-text bg-gradient-to-r from-myclublight to-myclubdark`};
       }
     }
     svg {
@@ -28,7 +28,7 @@ const StyledHero = styled.article`
   h2 {
     ${tw`mt-12 text-xl font-light leading-loose md:text-2xl`};
     a {
-      ${tw`border-b-2 border-yellow-500 hover:text-yellow-500`};
+      ${tw`border-b-2 border-myclubdark hover:text-myclubdark`};
     }
   }
 

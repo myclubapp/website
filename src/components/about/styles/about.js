@@ -29,7 +29,7 @@ const StyledAboutPg = styled.article`
 
     &.starter {
       a {
-        ${tw`border-yellow-500 hover:text-yellow-500`};
+        ${tw`border-myclubdark hover:text-myclubdark`};
       }
     }
     &.tech {
@@ -49,7 +49,7 @@ const StyledAboutPg = styled.article`
       ul {
         ${tw`list-disc list-inside`};
         a {
-          ${tw`border-yellow-500 hover:text-yellow-500`};
+          ${tw`border-myclubdark hover:text-myclubdark`};
         }
       }
     }
