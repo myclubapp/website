@@ -9,3 +9,6 @@ the latest version of the app is always available as PWA. In a second stage we a
 
 ## Backend Data
 We use a GraphQL API for Sports Data. Check this [repository](https://github.com/myclubapp/backend).
+
+## Frontend App
+Check this [repository](https://github.com/myclubapp/app).
