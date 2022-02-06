@@ -3,8 +3,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faGithub,
   faTwitter,
-  faDiscord,
-  faDev,
+  faInstagram, 
+  faFacebook
 } from '@fortawesome/free-brands-svg-icons';
 
 import { StyledSocialList, StyledButton } from './styles';
@@ -32,6 +32,28 @@ export default function SocialList(props) {
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faTwitter} />
+        </StyledButton>
+      </li>
+      <li>
+        <StyledButton
+          as="a"
+          href="https://www.instagram.com/p/CD2LeTkJisD/"
+          aria-label="github repo"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon icon={faInstagram} />
+        </StyledButton>
+      </li>
+      <li>
+        <StyledButton
+          as="a"
+          href="https://www.facebook.com/myclubthenextgeneration"
+          aria-label="github repo"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon icon={faFacebook} />
         </StyledButton>
       </li>
 

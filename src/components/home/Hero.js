@@ -29,7 +29,7 @@ export default function Hero() {
         <h2>
         myclub is the way to manage your club. Based on real data from swissunihockey, swiss volley and swiss handball and swiss basketball association, we generate real value for your teammates. Check out the app {' '}
           <a
-            href="https://unihockeyclub.app"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
           >

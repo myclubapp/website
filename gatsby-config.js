@@ -31,13 +31,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Emotion Tailwind Starter`,
-        short_name: `GatsbyJS`,
+        name: `myclub | the next generation`,
+        short_name: `myclub`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#339BDE`,
         display: `standalone`,
-        icon: `src/images/icon/logo.png`,
+        icon: `src/images/icon/logo_trans.png`,
         theme_color_in_head: false,
       },
     },

@@ -18,7 +18,7 @@ export default function Footer() {
       </p>
       <SocialList />
       <p className="author">
-        Created by{' '}
+        created by{' '}
         <a
           href="https://github.com/myclubapp"
           target="_blank"

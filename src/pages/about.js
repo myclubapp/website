@@ -12,37 +12,35 @@ export default function AboutPage() {
         <h1>About</h1>
         <div>
           <div className="section starter">
-            <h2>Gatsby Emotion Tailwind Starter</h2>
+            <h2>myclub | the next generation</h2>
             <p>
-              A Gatsby starter combining some of my favourite libraries to
-              create an awesome template to build your own{' '}
-              <a href="https://jamstack.org/">JAMStack</a> website!
+              This app is used to manage (sports-) clubs in switzerland.
             </p>
           </div>
           <div className="section tech">
-            <h2>Tech Stack</h2>
+            <h2>Integrations</h2>
             <ul>
               <li>
                 <a
                   className="gatsby"
-                  href="https://www.gatsbyjs.org/"
+                  href="https://www.swissunihockey.ch/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Gatsby:
+                  swissunihockey:
                 </a>{' '}
-                A blazing fast React framework for building websites & apps.
+                News, Clubs, Teams, Statistics, Championship and Cup Data supported..
               </li>
               <li>
                 <a
                   className="emotion"
-                  href="https://emotion.sh/docs/introduction"
+                  href="https://swissvolley.ch"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Emotion:
+                  swiss volley:
                 </a>{' '}
-                Library designed for writing css styles with JavaScript.
+                All regions supported (RVNO, GSGL, national... ), News, Clubs, Teams, Championship and Cup Data supported...
               </li>
               <li>
                 <a
@@ -51,47 +49,29 @@ export default function AboutPage() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Tailwind CSS:
+                  Soon: swiss handball:
                 </a>{' '}
-                CSS framework that gives you all of the building blocks you need
-                to build bespoke designs with low-level utility classes.
+                as soon as we get access to the api, swiss handball clubs can use the app. 
               </li>
             </ul>
           </div>
           <div className="section features">
             <h2>Features</h2>
             <ul>
-              <li>Lazy loading</li>
+              <li>Opensource </li>
               <li>Dark & Light Theme</li>
-              <li>Mobile friendly through Tailwind's utility classes</li>
-              <li>SEO friendly</li>
+              <li>Mobile friendly</li>
               <li>Offline support</li>
               <li>
-                Host your own static website on{' '}
+                Wanna contribute? Open a PR on {' '}
                 <a
-                  href="https://www.netlify.com/"
+                  href="https://github.com/myclubapp/app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Netlify
+                  GitHub
                 </a>
-                ,{' '}
-                <a
-                  href="https://vercel.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Vercel
-                </a>
-                ,{' '}
-                <a
-                  href="https://surge.sh/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Surge
-                </a>
-                , and many more!
+                .
               </li>
             </ul>
           </div>
