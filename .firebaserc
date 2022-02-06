@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "myclubmanagement"
+  },
+  "targets": {
+    "myclubmanagement": {
+      "hosting": {
+        "my-club": [
+          "my-club"
+        ]
+      }
+    }
   }
 }
