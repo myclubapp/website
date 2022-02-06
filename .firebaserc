@@ -7,6 +7,9 @@
       "hosting": {
         "my-club": [
           "my-club"
+        ],
+        "myclubmanagement": [
+          "myclubmanagement"
         ]
       }
     }
