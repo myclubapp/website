@@ -1,5 +1,5 @@
 {
-  "hosting": {
+  "hosting": [{
     "target": "my-club",
     "public": "public",
     "ignore": [
@@ -7,5 +7,14 @@
       "**/.*",
       "**/node_modules/**"
     ]
-  }
+  },
+  {
+    "target": "myclubmanagement",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }]
 }
