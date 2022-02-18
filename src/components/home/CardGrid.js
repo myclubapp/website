@@ -15,7 +15,7 @@ the latest version of the app is always available as PWA. In a second stage we a
         <ul className="cards">
 
           <StyledCard as="li" title={`Project`} key={`Card`}>
-            <StaticImage src="../../images/pugs/pug-1.jpg" alt="Pug" />
+            <StaticImage src="../../images/pugs/mountain-3.jpg" alt="Pug" />
             <div className="card-content">
               <span className="type">feature</span>
               <h3>mobile first</h3>
@@ -25,7 +25,7 @@ the latest version of the app is always available as PWA. In a second stage we a
             </div>
           </StyledCard>
           <StyledCard as="li" title={`Project`} key={`Card1`}>
-            <StaticImage src="../../images/pugs/pug-2.jpg" alt="Pug" />
+            <StaticImage src="../../images/pugs/mountain-4.jpg" alt="Pug" />
             <div className="card-content">
               <span className="type">trust</span>
               <h3>open source</h3>
@@ -35,7 +35,7 @@ the latest version of the app is always available as PWA. In a second stage we a
             </div>
           </StyledCard>
           <StyledCard as="li" title={`Project`} key={`Card2`}>
-            <StaticImage src="../../images/pugs/pug-3.jpg" alt="Pug" />
+            <StaticImage src="../../images/pugs/mountain-5.jpg" alt="Pug" />
             <div className="card-content">
               <span className="type">tech</span>
               <h3>data and servers hosted in switzerland</h3>
