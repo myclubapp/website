@@ -9,7 +9,7 @@ export default function CardGrid() {
       <section>
         <h2>Our values</h2>
         <p>
-          We work hard to provide the best solution to you. myclub's architecture follows these principles: <b>mobile first & always bet on the web</b>
+          We work hard to provide the best solution to you. myclub's architecture follows these principles: <b>mobile first & always bet on the web.</b> 
 the latest version of the app is always available as PWA. In a second stage we also support iOS and Android Apps.
         </p>
         <ul className="cards">
