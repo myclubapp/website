@@ -50,7 +50,7 @@ the latest version of the app is always available as PWA. In a second stage we a
               <span className="type">association</span>
               <h3>swissunihockey</h3>
               <p>
-                With the integration of the swissunihockey api, you will never miss a game again. Checkout the latest stadings of your team and plan your next win!
+                With the integration of the swissunihockey api, you will never miss a game again. Checkout the latest stadings of your team and celebrate your next win!
               </p>
             </div>
           </StyledCard>
@@ -60,7 +60,17 @@ the latest version of the app is always available as PWA. In a second stage we a
               <span className="type">association</span>
               <h3>swiss volley</h3>
               <p>
-                With the integration of the swiss volley api, you will never miss a game again. Checkout the latest stadings of your team and plan your next win!
+                With the integration of the swiss volley api, you will never miss a game again. Checkout the latest stadings of your team and celebrate your next win!
+              </p>
+            </div>
+          </StyledCard>
+          <StyledCard as="li" title={`Project`} key={`Card4`}>
+            <StaticImage src="../../images/pugs/pug-4.jpg" alt="Pug" />
+            <div className="card-content">
+              <span className="type">association</span>
+              <h3>swiss handball</h3>
+              <p>
+                With the integration of the swiss handball api, you will never miss a game again. Checkout the latest stadings of your team and celebrate your next win!
               </p>
             </div>
           </StyledCard>
