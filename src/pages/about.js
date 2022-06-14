@@ -29,7 +29,7 @@ export default function AboutPage() {
                 >
                   swissunihockey:
                 </a>{' '}
-                News, Clubs, Teams, Statistics, Championship and Cup Data supported..
+                News, Clubs, Teams, Statistics, Championship and Cup Data is supported..
               </li>
               <li>
                 <a
@@ -40,7 +40,7 @@ export default function AboutPage() {
                 >
                   swiss volley:
                 </a>{' '}
-                All regions supported (RVNO, GSGL, national... ), News, Clubs, Teams, Championship and Cup Data supported...
+                All regions supported (RVNO, GSGL, national... ), News, Clubs, Teams, Championship and Cup Data is supported...
               </li>
               <li>
                 <a
@@ -49,9 +49,9 @@ export default function AboutPage() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Soon: swiss handball:
+                  swiss handball:
                 </a>{' '}
-                as soon as we get access to the api, swiss handball clubs can use the app. 
+                News, Clubs, Teams, Championship and more is supported. 
               </li>
             </ul>
           </div>
