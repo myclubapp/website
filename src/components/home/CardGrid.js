@@ -35,7 +35,7 @@ the latest version of the app is always available as PWA. In a second stage we a
             </div>
           </StyledCard>
           <StyledCard as="li" title={`Project`} key={`Card2`}>
-            <StaticImage src="../../images/pugs/mountain-5.jpg" alt="Pug" />
+            <StaticImage src="../../images/pugs/mountain-5.jpg" alt="swiss" />
             <div className="card-content">
               <span className="type">tech</span>
               <h3>data and servers hosted in switzerland</h3>
@@ -45,7 +45,7 @@ the latest version of the app is always available as PWA. In a second stage we a
             </div>
           </StyledCard>
                     <StyledCard as="li" title={`Project`} key={`Card3`}>
-            <StaticImage src="../../images/pugs/pug-1.jpg" alt="Pug" />
+            <StaticImage src="../../images/pugs/pug-1.jpg" alt="Unihockey" />
             <div className="card-content">
               <span className="type">association</span>
               <h3>swissunihockey</h3>
@@ -55,7 +55,7 @@ the latest version of the app is always available as PWA. In a second stage we a
             </div>
           </StyledCard>
           <StyledCard as="li" title={`Project`} key={`Card4`}>
-            <StaticImage src="../../images/pugs/pug-4.jpg" alt="Pug" />
+            <StaticImage src="../../images/pugs/pug-4.jpg" alt="volleyball" />
             <div className="card-content">
               <span className="type">association</span>
               <h3>swiss volley</h3>
@@ -65,7 +65,7 @@ the latest version of the app is always available as PWA. In a second stage we a
             </div>
           </StyledCard>
           <StyledCard as="li" title={`Project`} key={`Card4`}>
-            <StaticImage src="../../images/pugs/pug-4.jpg" alt="Pug" />
+            <StaticImage src="../../images/pugs/pug-2.jpg" alt="Handball" />
             <div className="card-content">
               <span className="type">association</span>
               <h3>swiss handball</h3>
