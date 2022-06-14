@@ -64,7 +64,7 @@ the latest version of the app is always available as PWA. In a second stage we a
               </p>
             </div>
           </StyledCard>
-          <StyledCard as="li" title={`Project`} key={`Card4`}>
+          <StyledCard as="li" title={`Project`} key={`Card5`}>
             <StaticImage src="../../images/pugs/pug-2.jpg" alt="Handball" />
             <div className="card-content">
               <span className="type">association</span>
