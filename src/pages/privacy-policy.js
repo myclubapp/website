@@ -34,11 +34,11 @@ export default function PrivacyPolicyPage() {
 
           <div className="section starter">
             <h2>Deleting Your Profile</h2>
-            <p>You have the option to delete your profile directly within the app. Navigate to your profile page, scroll to the bottom, and select "Danger Zone: Profil löschen". Please note that this action is immediate, irreversible, and will result in the deletion of all your personal data from our systems..</p>
+            <p>You have the option to delete your profile directly within the app. Navigate to your profile page, scroll to the bottom, and select "Danger Zone: Profil löschen". Please note that this action is immediate, irreversible, and will result in the deletion of all your personal data from our systems.</p>
           </div>
           <div className="section starter">
             <h2> Location Data</h2>
-            <p>Our app does not store your location data. Location services are used solely for providing navigation assistance for your games and events..</p>
+            <p>Our app does not store your location data. Location services are used solely for providing navigation assistance for your games and events.</p>
           </div>
           <div className="section starter">
             <h2>Security</h2>

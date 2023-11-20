@@ -13,7 +13,7 @@ export default function TermsAndConditionsPage() {
         <div>
           <div className="section starter">
             <h2>Introduction</h2>
-            <p>Welcome to myclub | the next generation. These Terms of Use ("Terms") govern your use of the MyClub website and mobile application ("Service"). By accessing or using our Service, you agree to be bound by these Terms and our Privacy Policy.</p>
+            <p>Welcome to myclub | the next generation. These Terms of Use ("Terms") govern your use of the myclub website and mobile application ("Service"). By accessing or using our Service, you agree to be bound by these Terms and our Privacy Policy.</p>
           </div>
           <div className="section starter">
             <h2>Use of Service</h2>
@@ -35,7 +35,7 @@ export default function TermsAndConditionsPage() {
           <div className="section starter">
             <h2>User Content</h2>
             <p>a. You retain all rights in, and are solely responsible for, the content you post to the Service.</p>
-            <p>b. By posting content, you grant MyClub a worldwide, non-exclusive, royalty-free license to use, reproduce, and display such content in connection with the Service.</p>
+            <p>b. By posting content, you grant myclub a worldwide, non-exclusive, royalty-free license to use, reproduce, and display such content in connection with the Service.</p>
           </div>
           <div className="section starter">
             <h2>Prohibited Activities</h2>
