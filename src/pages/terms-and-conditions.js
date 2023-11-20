@@ -9,7 +9,10 @@ export default function TermsAndConditionsPage() {
     <Main>
       <Seo title="TermsAndConditions" description="TermsAndConditions" />
       <StyledAbout>
-        <h1>Terms and Conditions</h1>
+        <h1>Geschäftsbedingungen / <a href="/terms-and-conditions-de"
+          target="_self"
+          rel="noopener noreferrer"
+        >Geschäftsbedingungen</a></h1>
         <div>
           <div className="section starter">
             <h2>Introduction</h2>

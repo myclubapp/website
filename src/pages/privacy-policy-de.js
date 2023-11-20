@@ -7,50 +7,55 @@ import { StyledAbout } from '@about/styles';
 export default function PrivacyPolicyPage() {
   return (
     <Main>
-      <Seo title="PrivacyPolicy" description="PrivacyPolicy" />
+      <Seo title="Datenschutzrichtlinie" description="Datenschutzrichtlinie" />
       <StyledAbout>
-        <h1>Privacy Policy</h1>
+        <h1>Datenschutzrichtlinie /                 <a
+          href="/privacy-policy"
+          target="_self"
+          rel="noopener noreferrer"
+        >
+        Privacy Policy
+        </a></h1>
         <div>
           <div className="section starter">
-            <h2>Introduction</h2>
-            <p>Welcome to myclub | the next generation. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of your information when you use our app and the choices you have associated with that information.</p>
-            <p></p>
+            <h2>Einführung</h2>
+            <p>Willkommen bei myclub | die nächste Generation. Diese Datenschutzrichtlinie umreißt unsere Praktiken bezüglich der Sammlung, Nutzung und Offenlegung Ihrer Informationen, wenn Sie unsere App verwenden, sowie die damit verbundenen Wahlmöglichkeiten.</p>
           </div>
           <div className="section starter">
-            <h2>Information Collection and Use</h2>
-            <p>For a better experience while using our app, we may require you to provide us with certain personally identifiable information, including but not limited to your email address, first and last name. The information that we collect will be used to identify and manage your club membership and is necessary for the functionality of our app.</p>
-            <p>a. Profile Creation</p>
+            <h2>Sammlung und Nutzung von Informationen</h2>
+            <p>Für ein besseres Erlebnis bei der Nutzung unserer App benötigen wir möglicherweise bestimmte persönlich identifizierbare Informationen von Ihnen, einschließlich, aber nicht beschränkt auf Ihre E-Mail-Adresse, Vor- und Nachnamen. Die gesammelten Informationen werden zur Identifikation und Verwaltung Ihrer Clubmitgliedschaft verwendet und sind für die Funktionalität unserer App notwendig.</p>
+            <p>a. Profilerstellung</p>
             <p><ul>
-              <li>Required Information: To create an account, we need your email address, first and last name. This is essential for club administrators to approve your membership request.</li>
-              <li>Additional Information: Your home address and phone number are collected for the administration of your club membership and are visible only to your club and team administrators.</li>
+              <li>Erforderliche Informationen: Zur Erstellung eines Kontos benötigen wir Ihre E-Mail-Adresse, Vor- und Nachnamen. Dies ist notwendig, damit Clubadministratoren Ihre Mitgliedschaftsanfrage genehmigen können.</li>
+              <li>Zusätzliche Informationen: Ihre Wohnadresse und Telefonnummer werden für die Verwaltung Ihrer Clubmitgliedschaft gesammelt und sind nur für Ihre Club- und Teamadministratoren sichtbar.</li>
               </ul>
               </p>
-              <p>b. Data Hosting</p>
+              <p>b. Datenhosting</p>
             <p><ul>
-              <li>Your data is processed and stored in Switzerland (Europe-West6 region), ensuring compliance with local data protection and privacy regulations.</li>
+              <li>Ihre Daten werden in der Schweiz (Region Europa-West6) verarbeitet und gespeichert, um die Einhaltung lokaler Datenschutz- und Privatsphäre-Vorschriften zu gewährleisten.</li>
               </ul>
               </p>              
           </div>
 
           <div className="section starter">
-            <h2>Deleting Your Profile</h2>
-            <p>You have the option to delete your profile directly within the app. Navigate to your profile page, scroll to the bottom, and select "Danger Zone: Profil löschen". Please note that this action is immediate, irreversible, and will result in the deletion of all your personal data from our systems.</p>
+            <h2>Löschung Ihres Profils</h2>
+            <p>Sie haben die Möglichkeit, Ihr Profil direkt in der App zu löschen. Navigieren Sie zu Ihrer Profilseite, scrollen Sie nach unten und wählen Sie "Gefahrenzone: Profil löschen". Bitte beachten Sie, dass diese Aktion sofortig und unwiderruflich ist und zur Löschung aller Ihrer persönlichen Daten aus unseren Systemen führt.</p>
           </div>
           <div className="section starter">
-            <h2> Location Data</h2>
-            <p>Our app does not store your location data. Location services are used solely for providing navigation assistance for your games and events.</p>
+            <h2>Standortdaten</h2>
+            <p>Unsere App speichert Ihre Standortdaten nicht. Standortdienste werden ausschließlich zur Bereitstellung von Navigationshilfen für Ihre Spiele und Veranstaltungen verwendet.</p>
           </div>
           <div className="section starter">
-            <h2>Security</h2>
-            <p>We value your trust in providing us your Personal Information, and we strive to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.</p>
+            <h2>Sicherheit</h2>
+            <p>Wir schätzen Ihr Vertrauen in die Bereitstellung Ihrer persönlichen Informationen und bemühen uns, diese mit kommerziell akzeptablen Mitteln zu schützen. Denken Sie jedoch daran, dass keine Übertragungsmethode über das Internet oder elektronische Speichermethode zu 100% sicher und zuverlässig ist und wir ihre absolute Sicherheit nicht garantieren können.</p>
           </div>
           <div className="section starter">
-            <h2>Changes to This Privacy Policy</h2>
-            <p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.</p>
+            <h2>Änderungen dieser Datenschutzrichtlinie</h2>
+            <p>Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Daher wird empfohlen, diese Seite regelmäßig auf Änderungen zu überprüfen. Wir werden Sie über Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen. Diese Änderungen sind unmittelbar nach ihrer Veröffentlichung auf dieser Seite wirksam.</p>
           </div>
           <div className="section starter">
-            <h2>Contact Us</h2>
-            <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at info@my-club.app.</p>
+            <h2>Kontaktieren Sie uns</h2>
+            <p>Wenn Sie Fragen oder Anregungen zu unserer Datenschutzrichtlinie haben, zögern Sie nicht, uns unter info@my-club.app zu kontaktieren.</p>
           </div>
         </div>
       </StyledAbout>

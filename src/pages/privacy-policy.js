@@ -7,9 +7,15 @@ import { StyledAbout } from '@about/styles';
 export default function PrivacyPolicyPage() {
   return (
     <Main>
-      <Seo title="PrivacyPolicy" description="PrivacyPolicy" />
+      <Seo title="Privacy Policy" description="Privacy Policy" />
       <StyledAbout>
-        <h1>Privacy Policy</h1>
+        <h1>Privacy Policy /         <a
+          href="/privacy-policy-de"
+          target="_self"
+          rel="noopener noreferrer"
+        >
+        Datenschutzrichtlinie
+        </a></h1>
         <div>
           <div className="section starter">
             <h2>Introduction</h2>

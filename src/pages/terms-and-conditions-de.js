@@ -7,9 +7,13 @@ import { StyledAbout } from '@about/styles';
 export default function TermsAndConditionsPage() {
   return (
     <Main>
-      <Seo title="TermsAndConditionsDE" description="TermsAndConditionsDE" />
+      <Seo title="Terms And Conditions DE" description="Terms And Conditions DE" />
       <StyledAbout>
-        <h1>Geschäftsbedingungen</h1>
+        <h1>Geschäftsbedingungen / <a href="/terms-and-conditions"
+          target="_self"
+          rel="noopener noreferrer"
+        >Terms and Conditions
+        </a></h1>
         <div>
           <div className="section starter">
             <h2>Einführung</h2>
