@@ -13,7 +13,7 @@ export default function PrivacyPolicyPage() {
         <div>
           <div className="section starter">
             <h2>Introduction</h2>
-            <p>Welcome to MyClub | The Next Generation. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of your information when you use our app and the choices you have associated with that information.</p>
+            <p>Welcome to myclub | the next generation. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of your information when you use our app and the choices you have associated with that information.</p>
             <p></p>
           </div>
           <div className="section starter">
