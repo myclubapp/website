@@ -12,26 +12,45 @@ export default function PrivacyPolicyPage() {
         <h1>Privacy Policy</h1>
         <div>
           <div className="section starter">
-            <h2>myclub | the next generation</h2>
-            <p>This app is used to manage (sports-) clubs in switzerland.</p>
+            <h2>Introduction</h2>
+            <p>Welcome to MyClub | The Next Generation. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of your information when you use our app and the choices you have associated with that information.</p>
+            <p></p>
           </div>
           <div className="section starter">
-            <h2>Hosting</h2>
-            <p>Your data is processed in switzerland (europe-west6).</p>
+            <h2>Information Collection and Use</h2>
+            <p>For a better experience while using our app, we may require you to provide us with certain personally identifiable information, including but not limited to your email address, first and last name. The information that we collect will be used to identify and manage your club membership and is necessary for the functionality of our app.</p>
+            <p>a. Profile Creation</p>
+            <p><ul>
+              <li>Required Information: To create an account, we need your email address, first and last name. This is essential for club administrators to approve your membership request.</li>
+              <li>Additional Information: Your home address and phone number are collected for the administration of your club membership and are visible only to your club and team administrators.</li>
+              </ul>
+              </p>
+              <p>b. Data Hosting</p>
+            <p><ul>
+              <li>Your data is processed and stored in Switzerland (Europe-West6 region), ensuring compliance with local data protection and privacy regulations.</li>
+              </ul>
+              </p>              
           </div>
 
           <div className="section starter">
-            <h2>Create Profile</h2>
-            <p>To create an account we need your email address, first- and lastname. This is required, that administrators from a club can approve your request.</p>
-            <p>Your home address and phone number is only used and visible for the administartion of your club memmbership for your club & team administrators.</p>
+            <h2>Deleting Your Profile</h2>
+            <p>You have the option to delete your profile directly within the app. Navigate to your profile page, scroll to the bottom, and select "Danger Zone: Profil löschen". Please note that this action is immediate, irreversible, and will result in the deletion of all your personal data from our systems..</p>
           </div>
           <div className="section starter">
-            <h2>Delete Profile</h2>
-            <p>You can delete your profile directly in your app. Please open your profile page, scroll to the bottom and hit "Danger Zone: Profil löschen". Your data is deleted imidealty and can not be undone.</p>
+            <h2> Location Data</h2>
+            <p>Our app does not store your location data. Location services are used solely for providing navigation assistance for your games and events..</p>
           </div>
           <div className="section starter">
-            <h2>Other data: location</h2>
-            <p>We don't store your location. It's only used to provide you a navigation service for your games. </p>
+            <h2>Security</h2>
+            <p>We value your trust in providing us your Personal Information, and we strive to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.</p>
+          </div>
+          <div className="section starter">
+            <h2>Changes to This Privacy Policy</h2>
+            <p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.</p>
+          </div>
+          <div className="section starter">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at info@my-club.app.</p>
           </div>
         </div>
       </StyledAbout>

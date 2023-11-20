@@ -24,7 +24,8 @@
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "deploy": "firebase deploy --only hosting"
   },
   "babelMacros": {
     "twin": {
