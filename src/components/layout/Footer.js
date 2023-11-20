@@ -27,6 +27,24 @@ export default function Footer() {
           {siteMetadata.author}
         </a>
       </p>
+      <p className="author">
+        <a
+          href="/terms-and-conditions"
+          target="_self"
+          rel="noopener noreferrer"
+        >
+        Terms and Conditions
+        </a>
+      </p>
+      <p className="author">
+        <a
+          href="/privacy-policy"
+          target="_self"
+          rel="noopener noreferrer"
+        >
+        Privacy Policy
+        </a>
+      </p>
     </StyledFooter>
   );
 }

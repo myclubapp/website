@@ -3,8 +3,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faGithub,
   faTwitter,
-  faInstagram, 
-  faFacebook
+  faInstagram,
+  faFacebook,
 } from '@fortawesome/free-brands-svg-icons';
 
 import { StyledSocialList, StyledButton } from './styles';
@@ -56,8 +56,6 @@ export default function SocialList(props) {
           <FontAwesomeIcon icon={faFacebook} />
         </StyledButton>
       </li>
-
-     
     </StyledSocialList>
   );
 }

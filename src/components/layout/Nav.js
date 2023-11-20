@@ -13,6 +13,7 @@ export default function Nav() {
       </Link>
       <Link to="/">home</Link>
       <Link to="/about">about</Link>
+
     </StyledNav>
   );
 }

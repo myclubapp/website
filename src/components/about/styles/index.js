@@ -1,1 +1,1 @@
-export {default as StyledAbout} from './about.js'
+export { default as StyledAbout } from './about.js';

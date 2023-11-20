@@ -12,12 +12,13 @@ export default function Hero() {
         <div className="hero-welcome">
           <h1>
             <span className="greeting">
-              Hi there 
+              Hi there
               <span role="img" aria-label="Hand wave emoji">
                 👋
               </span>{' '}
             </span>
-            This is <span className="gatsby">myclub | the next generation</span>. 
+            This is <span className="gatsby">myclub | the next generation</span>
+            .
           </h1>
           {
             //#region
@@ -27,15 +28,14 @@ export default function Hero() {
           }
         </div>
         <h2>
-        myclub is the way to manage your club. Based on real data from the national association of swissunihockey, swiss volley and swiss handball, we generate real value for your teammates. Check out the app {' '}
-          <a
-            href="#"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          myclub is the way to manage your club. Based on real data from the
+          national association of swissunihockey, swiss volley and swiss
+          handball, we generate real value for your teammates. Check out the app{' '}
+          <a href="#" target="_blank" rel="noopener noreferrer">
             here
           </a>{' '}
-          and focus on what matters most, your success! <span>{isDark ? '😍' : '😎'}</span>
+          and focus on what matters most, your success!{' '}
+          <span>{isDark ? '😍' : '😎'}</span>
         </h2>
       </section>
     </StyledHero>

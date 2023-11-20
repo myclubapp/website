@@ -13,9 +13,7 @@ export default function AboutPage() {
         <div>
           <div className="section starter">
             <h2>myclub | the next generation</h2>
-            <p>
-              This app is used to manage (sports-) clubs in switzerland.
-            </p>
+            <p>This app is used to manage (sports-) clubs in switzerland.</p>
           </div>
           <div className="section tech">
             <h2>Integrations</h2>
@@ -29,7 +27,8 @@ export default function AboutPage() {
                 >
                   swissunihockey:
                 </a>{' '}
-                News, Clubs, Teams, Statistics, Championship and Cup Data is supported..
+                News, Clubs, Teams, Statistics, Championship and Cup Data is
+                supported..
               </li>
               <li>
                 <a
@@ -40,7 +39,8 @@ export default function AboutPage() {
                 >
                   swiss volley:
                 </a>{' '}
-                All regions supported (RVNO, GSGL, national... ), News, Clubs, Teams, Championship and Cup Data is supported...
+                All regions supported (RVNO, GSGL, national... ), News, Clubs,
+                Teams, Championship and Cup Data is supported...
               </li>
               <li>
                 <a
@@ -51,7 +51,7 @@ export default function AboutPage() {
                 >
                   swiss handball:
                 </a>{' '}
-                News, Clubs, Teams, Championship and more is supported. 
+                News, Clubs, Teams, Championship and more is supported.
               </li>
             </ul>
           </div>
@@ -63,7 +63,7 @@ export default function AboutPage() {
               <li>Mobile friendly</li>
               <li>Offline support</li>
               <li>
-                Wanna contribute? Open a PR on {' '}
+                Wanna contribute? Open a PR on{' '}
                 <a
                   href="https://github.com/myclubapp/app"
                   target="_blank"
