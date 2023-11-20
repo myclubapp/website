@@ -23,6 +23,7 @@ export default function PrivacyPolicyPage() {
           <div className="section starter">
             <h2>Create Profile</h2>
             <p>To create an account we need your email address, first- and lastname. This is required, that administrators from a club can approve your request.</p>
+            <p>Your home address and phone number is only used and visible for the administartion of your club memmbership for your club & team administrators.</p>
           </div>
           <div className="section starter">
             <h2>Delete Profile</h2>
