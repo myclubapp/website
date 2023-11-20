@@ -35,11 +35,6 @@
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
-    "@fontsource/open-sans": "^4.5.2",
-    "@fortawesome/fontawesome-svg-core": "^1.2.36",
-    "@fortawesome/free-brands-svg-icons": "^5.15.4",
-    "@fortawesome/free-solid-svg-icons": "^5.15.4",
-    "@fortawesome/react-fontawesome": "^0.1.16",
     "dotenv": "^10.0.0",
     "gatsby": "^4.1.0",
     "gatsby-plugin-emotion": "^7.1.0",
