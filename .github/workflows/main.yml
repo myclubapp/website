@@ -16,8 +16,8 @@ jobs:
           node-version: 16        
       - name: Install Dependencies
         run: |
-          npm config set '//npm.fontawesome.com/:_authToken' "${{ secrets.FONTAWESOME_NPM_AUTH_TOKEN }}"
-          npm ci  
+          npm config set registry "https://registry.npmjs.com/"
+          npm ci
       - name: Build
         run: npm run build
       - name: Deploy to Firebase
