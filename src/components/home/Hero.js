@@ -12,7 +12,7 @@ export default function Hero() {
         <div className="hero-welcome">
           <h1>
             <span className="greeting">
-              Hi there
+              Grüezi
               <span role="img" aria-label="Hand wave emoji">
                 👋
               </span>{' '}
@@ -28,13 +28,12 @@ export default function Hero() {
           }
         </div>
         <h2>
-          myclub is the way to manage your club. Based on real data from the
-          national association of swissunihockey, swiss volley and swiss
-          handball, we generate real value for your teammates. Check out the app{' '}
+        Willkommen bei  <span className="gatsby">myclub | the next generation</span> – die umfassende Lösung für die Verwaltung deines Vereins! Egal ob Unihockey, Handball oder Volleyball, <span className="gatsby">myclub</span> bietet dir alles, was du für ein effizientes Vereinsmanagement benötigst. 
+        Entdecke die  {' '}
           <a href="#" target="_blank" rel="noopener noreferrer">
-            here
-          </a>{' '}
-          and focus on what matters most, your success!{' '}
+          App
+          </a>{' '} hier und konzentriere dich auf das, was wirklich zählt: 
+          deinen Erfolg!{' '}
           <span>{isDark ? '😍' : '😎'}</span>
         </h2>
       </section>

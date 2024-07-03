@@ -11,8 +11,9 @@ export default function Nav() {
           <use xlinkHref="/logo.svg#logo" />
         </svg>
       </Link>
-      <Link to="/">home</Link>
-      <Link to="/about">about</Link>
+      <Link to="/">Home</Link>
+      <Link to="/pricing">Preis</Link>
+      <Link to="/docs">Dokumentation</Link>
 
     </StyledNav>
   );
