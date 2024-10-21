@@ -30,7 +30,7 @@ export default function Hero() {
         <h2>
         Willkommen bei  <span className="gatsby">myclub | the next generation</span> – die umfassende Lösung für die Verwaltung deines Vereins! Egal ob Unihockey, Handball oder Volleyball, <span className="gatsby">myclub</span> bietet dir alles, was du für ein effizientes Vereinsmanagement benötigst. 
         Entdecke die  {' '}
-          <a href="#" target="_blank" rel="noopener noreferrer">
+          <a href="https://my-club.app/docs/" target="_self" rel="noopener noreferrer">
           App
           </a>{' '} hier und konzentriere dich auf das, was wirklich zählt: 
           deinen Erfolg!{' '}

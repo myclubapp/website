@@ -27,7 +27,7 @@ export default function AboutPage() {
                 >
                   Apple App Store
                 </a>{' '}
-               
+
               </li>
               <li>
                 <a
@@ -38,7 +38,7 @@ export default function AboutPage() {
                 >
                   Google Play Store
                 </a>{' '}
-                
+
               </li>
               <li>
                 <a
@@ -61,11 +61,87 @@ export default function AboutPage() {
               <li>Trainings</li>
               <li>Veranstaltungen</li>
               <li>Mitgliederverwaltung</li>
-             
+
+            </ul>
+          </div>
+          <div className="section features">
+            <h2>Benutzeraccount erstellen</h2>
+
+            <p><b>Anmeldung</b></p>
+            <ul>
+              <li>Öffnen Sie die App “my-club” und klicken Sie auf die Schaltfläche “Registrieren”.</li>
+              <li>Sie werden auf die Anmeldeseite weitergeleitet, wo Sie das Registrierungsformular ausfüllen müssen.    </li>
+
+              <li>Geben Sie Ihre E-Mail-Adresse ein.</li>
+              <li>Erstellen Sie ein Passwort und geben Sie es ein.</li>
+              <li>Geben Sie Ihren Vorname und Nachname ein.</li>
+
+
+              <li>Klicken Sie auf “Registrieren”, um Ihre Daten zu übermitteln.</li>
+            </ul>
+
+
+            <p><b>Bestätigung der Anmeldung</b></p>
+            <ul>
+              <li>Nach dem Ausfüllen des Formulars wird ein Bestätigungslink an Ihre E-Mail-Adresse gesendet.</li>
+              <li>Überprüfen Sie Ihr E-Mail-Postfach (und eventuell den Spam-Ordner) und klicken Sie auf den Link, um Ihre E-Mail-Adresse zu verifizieren.</li>
+              <li>Sobald Ihre E-Mail-Adresse verifiziert ist, können Sie sich in der App anmelden.</li>
+            </ul>
+          </div>
+
+
+
+          <div className="section features">
+
+            <h2>Onboarding (Email & Club)</h2>
+
+            <p><b>E-Mail-Verifizierung</b></p>
+            <ul>
+              <li>Nach der Registrierung müssen Sie Ihre E-Mail-Adresse verifizieren:
+              </li>
+
+              <li>Sie sehen eine Nachricht, die Sie daran erinnert, Ihre E-Mail-Adresse zu überprüfen.</li>
+              <li>Überprüfen Sie Ihr E-Mail-Postfach und klicken Sie auf den Verifizierungslink.</li>
+              <li>Falls Sie keine E-Mail erhalten haben, klicken Sie auf “E-Mail erneut senden”, um die Verifizierungs-E-Mail erneut zu senden.</li>
+
+            </ul>
+
+            <p><b>Club beitreten</b></p>
+            <ul>
+              <li>Nach der E-Mail-Verifizierung müssen Sie einem Club beitreten, um Ihr Profil zu vervollständigen:  </li>
+
+              <li>Sie sehen eine Liste mit verfügbaren Clubs.</li>
+              <li>Verwenden Sie die Suchleiste, um nach Ihrem Club zu suchen.</li>
+              <li>Klicken Sie auf den gewünschten Club, um eine Beitrittsanfrage zu stellen.</li>
+
+
+              <li>Ihre Beitrittsanfrage wird vom Club überprüft, und Sie erhalten eine Benachrichtigung per E-Mail, sobald die Anfrage genehmigt wurde.</li>
+            </ul>
+
+          </div>
+
+          <div className="section features">
+            <h2>Trainings</h2>
+            <ul>
+              <li>folgt </li>
+
+            </ul>
+          </div>
+          <div className="section features">
+            <h2>Veranstaltungen</h2>
+            <ul>
+              <li>folgt </li>
+
+            </ul>
+          </div>
+          <div className="section features">
+            <h2>Mitgliederverwaltung</h2>
+            <ul>
+              <li>folgt </li>
             </ul>
           </div>
         </div>
-      </StyledAbout>
-    </Main>
+      </StyledAbout >
+    </Main >
   );
 }

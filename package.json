@@ -1,7 +1,7 @@
 {
   "name": "myclub",
   "description": "This is the home of myclub | the next generation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "liitu consulting gmbh",
   "repository": "https://github.com/myclubapp/website",
   "keywords": [
@@ -11,10 +11,7 @@
     "swissvolleyball",
     "swisshandball",
     "swissbasketball",
-    "swissfootball",
-    "emotion",
-    "tailwindcss",
-    "starter"
+    "swissfootball"
   ],
   "license": "MIT",
   "scripts": {
