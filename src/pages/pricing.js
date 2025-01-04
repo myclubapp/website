@@ -13,7 +13,7 @@ export default function AboutPage() {
         <div>
           <div className="section starter">
             <h2>myclub | the next generation</h2>
-            <p>Unser Preismodell ist fast so einfach wie unsere App. Ist dein Verein klein, zahlst du weniger - ist dein Verein grösser, dann bezahlst du auch mehr. Eigentlich logisch oder? Und das beste dabei: Kinder und Jugendliche unter 18 Jahren sind gratis!</p>
+            <p>Unser Preismodell ist fast so einfach wie unsere App. Ist dein Verein klein, zahlst du weniger - ist dein Verein grösser, dann bezahlst du auch mehr. Eigentlich logisch oder?</p>
           </div>
           <div className="section starter">
             <h2>Probeabo</h2>
@@ -50,16 +50,16 @@ export default function AboutPage() {
 
             <ul>
               <li>
-                Sind eine unlimitierte Anzahl von Mannschaften/Teams
+                 Sind eine unlimitierte Anzahl von Mannschaften/Teams
               </li>
               <li>
-                mit unzählige Trainings, die dich noch besser machen
+                mit unzählige Trainings, die dich noch besser machen 
               </li>
               <li>
-                und genügend Veranstaltungen um dein Vereinsleben zu unterstützen
+                und genügend Veranstaltungen um dein Vereinsleben zu unterstützen 
               </li>
               <li>
-                sowie einer einfachen Mitgliederverwaltung
+                sowie einer einfachen Mitgliederverwaltung 
               </li>
 
             </ul>
@@ -89,7 +89,7 @@ export default function AboutPage() {
               <li>und einem tollen Splash Screen beim Start der App</li>
               <li>und natürlich mit deinem Vereinslogo </li>
             </ul>
-            <p>Einmalig CHF 200.-</p>
+            <p>Preis auf Anfrage</p>
           </div>
 
           <div><p>* = In Entwicklung</p></div>
